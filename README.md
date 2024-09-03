@@ -15,3 +15,4 @@ Native Store + CSS/SCSS + Vuetify
 > npm install
 
 > npm run dev
+>siema
