@@ -16,3 +16,4 @@ Native Store + CSS/SCSS + Vuetify
 
 > npm run dev
 >siema
+>ok
